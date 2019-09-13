@@ -1,4 +1,4 @@
-###Run " python tictactoe.py " to play###
+### Run " python tictactoe.py " to play
 
 - The turn to turn interaction is in dynaics.py
 
